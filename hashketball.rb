@@ -189,4 +189,3 @@ def get_team(team_name)
     return game_hash[:away]
   end
 end
-
